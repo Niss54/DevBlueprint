@@ -412,7 +412,7 @@ Built with love using these amazing open-source projects:
 
 <div align="center">
 
-**Made with ❤️ by [[Your Name / Org]](https://github.com/[your-handle])**
+**Made with ❤️ by [[Nishant Maurya / Org]](https://github.com/[your-handle])**
 
 ⭐ **Star this repo if it helped you!** ⭐
 
