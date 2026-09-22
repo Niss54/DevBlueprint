@@ -343,7 +343,14 @@ CLOUDINARY_URL="cloudinary://[key]:[secret]@[cloud]"
 
 ---
 
-> 💡 **AI Agent Note:** Agar tum Claude/GPT ho aur yeh file padh rahe ho — memory.md hi tumhara **single source of truth** hai. Koi bhi code likhne se pehle yeh file check karo. Jo yaad nahi — yahan dhundho, phir code karo. Session end hone par jo important change hua ho, us section ko update karo.
+> 💡 **AI Agent Note:** If you are Claude, GPT, or any other AI reading this file, treat `memory.md` as your **single source of truth**.
+
+Before writing or modifying any code, **check this file first**. If you do not remember something or need context, search `memory.md` before making assumptions or writing code.
+
+At the end of the session, update the relevant section of `memory.md` with any important changes, decisions, discoveries, or architectural updates made during the session.
+
+**Rule:** Check `memory.md` first, code second, and update it when important changes occur.
+
 
 ---
 
