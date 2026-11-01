@@ -4,8 +4,8 @@
 > **Demo Type:** Live Technical Demonstration
 > **Total Duration:** 5–8 minutes
 > **Presenter:** Nishant Maurya
-> **Last Updated:** 2026-09-23
-> **Audience:** GE HealthCare Judges + Panel
+> **Last Updated:**last update
+> **Audience:** Judges + Panel , expert mentors , vcs , investors
 
 ---
 
