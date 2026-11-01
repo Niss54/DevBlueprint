@@ -10,7 +10,7 @@
 
 
 
----
+
 ---
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -679,6 +679,5 @@ This prompt was built by extracting the following patterns:
 - **For libraries**: Make sure your `package.json` / `pyproject.toml` has a `description` field
 - **For web apps**: Include a `DEPLOY.md` or deployment notes — prompt will pick them up
 
----
 
 *Prompt version: 1.0 · Tested against 10 top GitHub READMEs · Works for any project type*
