@@ -3,9 +3,9 @@
 > **Project:** WeightGuard — Steganographic Malware Detection in AI Model Weights
 > **Agent Framework:** Multi-Agent Scanning Pipeline
 > **Runtime:** Python 3.11+ | PyTorch | NumPy | FastAPI
-> **Last Updated:** 2026-09-23
+> **Last Updated:**  last update
 
----
+
 
 ## 📑 Table of Contents
 
