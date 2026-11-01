@@ -4,7 +4,7 @@ Hardened successor to the provided 493-line `Security Guidelines`; original cont
 
 > **Use:** security architecture + implementation contract + release gate.
 
----
+
 
 # 🔐 Hardened Security Standard
 
@@ -21,7 +21,7 @@ This document is a defense-in-depth security contract for a production web appli
 
 No system can honestly be guaranteed to be impossible to hack. The engineering target is to make compromise harder, blast radius smaller, unsafe states fail closed, detection faster, and recovery tested. Security claims must be evidence-backed.
 
----
+
 
 ## 01. Security objectives
 
@@ -44,7 +44,7 @@ No system can honestly be guaranteed to be impossible to hack. The engineering t
 - [ ] Secrets have an owner, purpose, rotation policy, revocation path, and audit trail.
 - [ ] Security-sensitive events have correlation identifiers and privacy-safe telemetry. 
 
----
+
 
 ## 02. Trust zones and architecture
 
