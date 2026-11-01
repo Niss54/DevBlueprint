@@ -6,7 +6,7 @@
 > **Security Lead:** [Name]
 > ⚠️ **This document is CONFIDENTIAL — do not share publicly**
 
----
+
 
 ## 🎯 1. Security Goals
 
@@ -16,7 +16,7 @@
 - ⚡ Incident response time < 2 hours
 - 🔑 Principle of least privilege everywhere
 
----
+
 
 ## 🔑 2. Authentication & Authorization
 
@@ -252,7 +252,7 @@ app.use(cors({
 }));
 ```
 
----
+
 
 ## 🚦 5. Rate Limiting
 
